@@ -14,6 +14,7 @@ const TemplateWrapper = ({ children }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
+        <meta name="yandex-verification" content="1d33ea51236d12be" />
 
         <link
           rel="apple-touch-icon"
